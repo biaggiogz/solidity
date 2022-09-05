@@ -16,6 +16,5 @@ contract Banco {
 
         return (sender,timestamp,number);
 
-
     }
 }
